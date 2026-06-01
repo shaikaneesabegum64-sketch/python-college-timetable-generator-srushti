@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Ramesh Kumar",
+        "subjects": [
+            "Maths",
+            "physics"
+        ]
+    },
+    {
+        "name": "Suresh Sir",
+        "subjects": [
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Anitha Madam",
+        "subjects": [
+            "English"
+        ]
+    },
+    {
+        "name": "Kiran Sir",
+        "subjects": [
+            "Computer"
+        ]
+    },
+    {
+        "name": "Lavanya Madam",
+        "subjects": [
+            "Biology"
+        ]
+    }
+]
